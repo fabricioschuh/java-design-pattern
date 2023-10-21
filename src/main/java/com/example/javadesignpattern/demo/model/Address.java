@@ -15,6 +15,4 @@ public class Address {
     private String cep;
     private int number;
     private String complement;
-
-
 }
